@@ -1,0 +1,7 @@
+mlruns/
+notebooks/
+screenshots/
+.git/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
